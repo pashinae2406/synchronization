@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f37ee2-156f-49ce-880d-c9d28df9c70c" name="Changes" comment="создание проекта">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/.env.template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="71f37ee2-156f-49ce-880d-c9d28df9c70c" name="Changes" comment="установка пакетов, файл с зависимостями">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718120688764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="установка пакетов, файл с зависимостями">
+      <option name="closed" value="true" />
+      <created>1718121321806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718121321806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="создание проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="создание проекта" />
+    <MESSAGE value="установка пакетов, файл с зависимостями" />
+    <option name="LAST_COMMIT_MESSAGE" value="установка пакетов, файл с зависимостями" />
   </component>
 </project>
